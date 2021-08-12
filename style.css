@@ -29,9 +29,9 @@ main {
 }
 
 .step-number {
+  padding: 3px;
   background-color: #ff9a4b;
   color: white;
-  display: inline-block;
   position: absolute;
   top: 0px;
   left: 0px;
